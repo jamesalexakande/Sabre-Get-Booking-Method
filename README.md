@@ -37,7 +37,7 @@ Open Terminal (Mac) or Powershell (Windows) and navigate to the desired director
 
 - Clone the repository to your local machine:
 
-  `git clone https://github.com/yourusername/sabre-get-booking-method.git`
+  `git clone https://github.com/jamesalexakande/Sabre-Get-Booking-Method/tree/main`
 
 - Navigate to the cloned folder after the cloning process is complete 
 
