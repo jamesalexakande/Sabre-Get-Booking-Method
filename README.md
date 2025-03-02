@@ -29,7 +29,7 @@ The primary audience for this documentation is software developers who:
 
 ## How to Use This Documentation
 ### Viewing the Documentation
-1. Navigate to the [API_Documentation.md](API_Documentation.md) file in this repository.
+1. Navigate to the [API_DOCUMENTATION.md](API_DOCUMENTATION.md) file in this repository.
 2. The documentation is written in Markdown format and can be viewed directly on GitHub or any Markdown-compatible viewer.
 
 **To view locally:**
