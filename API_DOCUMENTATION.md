@@ -22,10 +22,17 @@ Here's a simplified process flow for the Get Booking Method
 ![Get Booking API_EDITED](https://github.com/user-attachments/assets/49056121-7bb5-4eec-aa8a-4aff1b7e6902)
 
 ---
+## Authentication
+To interact with the Sabre Booking Management API, all requests must include a valid authentication token in the request headers. This ensures secure access and proper authorization for API operations.
 
+**Obtaining a Token**
+To retrieve a token, follow the authentication process outlined in Sabre’s API documentation:
+[API Authentication Guide](https://developer.sabre.com/guides/travel-agency/quickstart-guides/get-token)
 ## Example Requests and Responses
 
 ### 1. Display Complete Booking
+
+**Base URL**: `api.cert.platform.sabre.com/v1/trip/orders`
 
 #### **Request**
 ```json
