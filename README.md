@@ -2,7 +2,7 @@
 This repository contains detailed technical documentation for the Sabre Booking Management API's Get Booking method. This documentation is designed for software developers with entry-level experience in the travel technology industry, providing clear explanations, examples, and best practices for implementing this API method.
 
 ## Repository Contents
-- [API_Documentation.md](API_Documentation.md) - Detailed documentation of the Get Booking Method, request/response structure, and error handling
+- [API_DOCUMENTATION.md](API_DOCUMENTATION.md) - Detailed documentation of the Get Booking Method, request/response structure, and error handling
 - [README.md](README.md) - This file, providing a general overview of the repository and instructions on how to access the documentation.
 
 ## Documentation Features
