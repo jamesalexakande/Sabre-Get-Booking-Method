@@ -71,3 +71,9 @@ So I focused on pulling from those sources, personally walking through these ste
   ```
 
 - Use this token for API requests within its validity period.
+
+## References:
+- [Token Create API (v3) Documentation](https://developer.sabre.com/docs/rest_apis/session_management/token_create_api/v3)  
+- [Quickstart Guide: Get a Token](https://developer.sabre.com/guides/travel-agency/quickstart-guides/get-token)  
+- [REST API Token Credentials Guide](https://developer.sabre.com/guides/travel-agency/developer-guides/rest-apis-token-credentials)  
+
