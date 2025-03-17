@@ -7,7 +7,6 @@ This repository contains detailed technical documentation for the Sabre Booking 
 - [README.md](README.md) - This file, providing a general overview of the repository and instructions on how to access the documentation.
 
 ## Documentation Features
-
 The Get Booking method documentation includes:
 
 - Clear explanation of the method's purpose and functionality
@@ -18,11 +17,9 @@ The Get Booking method documentation includes:
 - Error handling descriptions.
 
 ## About This Documentation
-
-This documentation was created as part of a technical writing test task for AltexSoft, demonstrating the ability to explain complex travel industry APIs in a clear, structured format suitable for entry-level developers.
+This documentation provides a structured guide to the Sabre Get Booking Method, detailing its implementation, usage, and integration. It is designed to help developers understand how to retrieve booking details using the Sabre API efficiently.
 
 ### Target Audience
-
 The primary audience for this documentation is software developers who:
 - Have basic programming knowledge
 - Are new to the travel technology industry
@@ -45,10 +42,6 @@ Open Terminal (Mac) or Powershell (Windows) and navigate to the desired director
   `cd sabre-get-booking-method`
 
 - Open API_Documentation.md in a Markdown viewer or editor like VS Code.
-
-## Feedback and Contributions
-
-This documentation is part of a test task, but feedback for improvements is welcome through GitHub issues.
 
 ## Resources
 Additional resources for working with Sabre APIs can be found at:
